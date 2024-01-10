@@ -11,7 +11,7 @@ button{
     all: unset;
 }
 body{
-    background: url('/assets/images/background-pattern-desktop.svg') hsl(275, 100%, 97%) top no-repeat;
+    background: url('assets/images/background-pattern-desktop.svg') hsl(275, 100%, 97%) top no-repeat;
     background-size: 100%;
     color: hsl(292, 42%, 14%);
     line-height: 1.3;
